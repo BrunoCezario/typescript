@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Emerson Laranja",
-    "url": "https://github.com/EmersonLaranja"
-  },
+  
   "engines": {
     "node": ">=20.8.0"
   },
